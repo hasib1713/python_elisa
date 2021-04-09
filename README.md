@@ -1,2 +1,2 @@
-# python_elisa
-elisa_challange
+# python
+python_challange
